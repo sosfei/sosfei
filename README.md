@@ -7,8 +7,7 @@
     <a href="https://github.com/java"><img src="https://img.shields.io/badge/Java-11-FF1493.svg"></a>
     <a href="https://github.com/sosfei/sosfei/graphs/contributors"><img src="https://img.shields.io/github/contributors/sosfei/sosfei?color=blue"></a>
     <a href="https://github.com/sosfei/sosfei/stargazers"><img src="https://img.shields.io/github/stars/sosfei/sosfei.svg?logo=github"></a>
-    <a href="https://github.com/sosfei/sosfei/network/members"><img src="https://img.shields.io/github/forks/sosfei/sosfei.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=sosfei/sosfei" alt="visitors"/>   
+    <a href="https://github.com/sosfei/sosfei/network/members"><img src="https://img.shields.io/github/forks/sosfei/sosfei.svg?color=blue&logo=github"></a>   
 </p>
 
 <picture>
